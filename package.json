@@ -12,15 +12,15 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/foxer666/node-stratum-pool",
+    "homepage": "https://github.com/guantau/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/foxer666/node-stratum-pool/issues"
+        "url": "https://github.com/guantau/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
         "devnulled",
-        "foxer666",
+        "guantau",
         "vekexasia",
         "TheSeven",
         "Kris Klosterman"
@@ -28,7 +28,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/foxer666/node-stratum-pool.git"
+        "url": "https://github.com/guantau/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^2.5.0",
